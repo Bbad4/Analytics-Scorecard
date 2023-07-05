@@ -7,3 +7,5 @@ Developed a web app to evaluate candidates performance by analyzing and comparin
 - **Data Processing and Manipulation** - Pandas
 - **Frontend** - Streamlit
 - **Visualizations** - Plotly
+
+### View Demo - https://analytics-scorecard.streamlit.app/
